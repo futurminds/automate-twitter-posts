@@ -1,0 +1,13 @@
+python-dotenv
+crewai
+pandas==1.5.1
+langchain-groq==0.0.1
+pytrends==4.9.2
+beautifulsoup4==4.12.3
+groq==0.5.0
+crewai_tools==0.2.5
+pydantic==2.7.1
+tweepy==4.14.0
+langchain
+requests
+groq
